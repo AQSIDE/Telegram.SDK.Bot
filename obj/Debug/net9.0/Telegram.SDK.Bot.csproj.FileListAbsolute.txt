@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\bin\Debug\net9.0\Telegram.SDK.Bot.deps.json
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\bin\Debug\net9.0\Telegram.SDK.Bot.dll
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\bin\Debug\net9.0\Telegram.SDK.Bot.pdb
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\Telegram.SDK.Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\Telegram.SDK.Bot.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\Telegram.SDK.Bot.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\Telegram.SDK.Bot.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\Telegram.SDK.Bot.dll
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\refint\Telegram.SDK.Bot.dll
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\Telegram.SDK.Bot.pdb
+C:\Users\PC\Desktop\Projects\Bot\Telegram.SDK.Bot\obj\Debug\net9.0\ref\Telegram.SDK.Bot.dll
